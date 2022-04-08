@@ -9,4 +9,4 @@ The system includes 2 actors:
 
 2.  A **security man** who fills money into the ATM.
 
-3. You must also write a** checkAccountBalance use case** that describes the system and actor interactions/ flow and events, entry and exit conditions.
+3. You must also write a **checkAccountBalance use case** that describes the system and actor interactions/ flow and events, entry and exit conditions.
